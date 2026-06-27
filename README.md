@@ -77,7 +77,7 @@ frontend/
 ##  How to Run the Project
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/Internship-Recommendation-System.git
+git clone https://github.com/Bhavna851/Internship-Recommendation-System.git
 
 ### 2. Navigate to backend folder
 cd backend
