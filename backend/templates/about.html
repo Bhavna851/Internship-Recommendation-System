@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PM Internship –  Recommendation Engine</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: "Inter", sans-serif;
+            background: #f2f6fa;
+            color: #1c1c1c;
+        }
+
+        /* Government Header */
+        .gov-header {
+            background: #0b3d82;
+            color: white;
+            padding: 14px 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 14px;
+            font-size: 21px;
+            font-weight: 600;
+            letter-spacing: .4px;
+        }
+
+        .gov-header img {
+            height: 40px;
+        }
+
+        /* Main Container */
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 45px 25px;
+        }
+
+        /* Hero Section */
+        .hero {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 50px;
+            padding: 40px;
+            background: #ffffff;
+            border-radius: 14px;
+            border: 1px solid #d7dfe9;
+            box-shadow: 0 4px 14px rgba(0,0,0,0.05);
+        }
+
+        .hero-text {
+            flex: 1;
+            min-width: 300px;
+        }
+
+        .hero-text .title {
+            font-size: 36px;
+            font-weight: 700;
+            color: #0b3d82;
+        }
+
+        .hero-text .subtitle {
+            font-size: 17px;
+            color: #3a3a3a;
+            margin-top: 14px;
+            line-height: 1.55;
+        }
+
+        .hero-img {
+            flex: 1;
+            text-align: center;
+        }
+
+        .hero-img img {
+            width: 78%;
+            max-width: 370px;
+        }
+
+        /* Buttons */
+        .btn-primary {
+            background: #0b57b3;
+            padding: 14px 28px;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 17px;
+            cursor: pointer;
+            margin-top: 25px;
+            width: 250px;
+        }
+
+        .btn-primary:hover {
+            background: #094a99;
+        }
+
+        .btn-outline {
+            border: 2px solid #0b57b3;
+            background: white;
+            color: #0b57b3;
+            padding: 14px 28px;
+            border-radius: 8px;
+            font-size: 17px;
+            cursor: pointer;
+            width: 250px;
+            margin-top: 12px;
+        }
+
+        .btn-outline:hover {
+            background: #ebf1fa;
+        }
+
+        /* Feature Cards */
+        .features {
+            margin-top: 45px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 25px;
+        }
+
+        .feature-card {
+            background: #ffffff;
+            padding: 25px;
+            border-radius: 12px;
+            border: 1px solid #d1dae6;
+            text-align: center;
+            box-shadow: 0 3px 12px rgba(0,0,0,0.04);
+        }
+
+        .feature-card img {
+            width: 52px;
+            margin-bottom: 15px;
+            opacity: 0.92;
+        }
+
+        .feature-card p {
+            font-size: 15px;
+            color: #444;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 18px;
+            margin-top: 55px;
+            background: #e2e8f3;
+            color: #333;
+            font-size: 14px;
+            border-top: 1px solid #c9d3dd;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <div class="gov-header">
+        Government of India – PM Internship Scheme
+    </div>
+
+    <!-- Main Content -->
+    <div class="container">
+
+        <!-- Hero Section -->
+        <div class="hero">
+            <div class="hero-text">
+                <div class="title">Internship Recommendation System</div>
+                <div class="subtitle">
+                    An official digital initiative to help students identify the most suitable internship 
+                    opportunities based on qualifications, skills, location and career goals.
+                </div>
+
+                <button class="btn-primary" onclick="location.href='/form'">Get Started</button>
+                
+            </div>
+
+            <div class="hero-img">
+                <img src="https://img.freepik.com/premium-vector/diverse-team-collaborating-around-laptop-flat-vector-style_876875-98.jpg?semt=ais_hybrid&w=740&q=80" alt="Internship Illustration">
+            </div>
+        </div>
+
+        <!-- Feature Cards -->
+        <div class="features">
+
+            <div class="feature-card">
+                <img src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png">
+                <p>Internship  recommendation  based on user profile</p>
+            </div>
+
+            <div class="feature-card">
+                <img src="https://cdn-icons-png.flaticon.com/512/992/992651.png">
+                <p>Simple, clean and mobile-friendly government interface</p>
+            </div>
+
+            <div class="feature-card">
+                <img src="https://cdn-icons-png.flaticon.com/512/1040/1040232.png">
+                <p>Optimized for low-internet connectivity (Rural & Remote regions)</p>
+            </div>
+
+            <div class="feature-card">
+                <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png">
+                <p>Designed for students with minimal digital literacy</p>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="footer">
+        © PM Internship Scheme | Government of India
+    </div>
+
+</body>
+</html>

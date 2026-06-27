@@ -1,0 +1,263 @@
+[
+  {
+    "title": "Data Analytics Internship",
+    "skills": ["Python", "SQL", "Excel", "Data Visualization"],
+    "sector": "Data Analytics",
+    "location": "remote",
+    "duration": "2 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Content Writing Internship",
+    "skills": ["Writing", "SEO"],
+    "sector": "Content Writing",
+    "location": "Delhi",
+    "duration": "1 month",
+    "internship_type": "Full-time",
+    "stipend": "Unpaid"
+  },
+  {
+    "title": "Web Development Internship",
+    "skills": ["HTML", "CSS", "JavaScript", "Python"],
+    "sector": "Web Development",
+    "location": "Remote",
+    "duration": "3 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Remote Internship  Web/AI ",
+    "skills": ["HTML","CSS","JavaScript","Python","Machine Learning"],
+    "sector": "Web Development / AI",
+    "location": "Remote",
+    "duration": "2 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "EGovernance Web Dev Internship  CES India",
+    "skills": ["HTML","CSS","JavaScript","Django","Python"],
+    "sector": "Government / Web Development",
+    "location": "Anywhere / Remote",
+    "duration": "3 months",
+    "internship_type": "Virtual",
+    "stipend": "Unpaid"
+  },
+  {
+    "title": "Virtual Internship Data Analysis / Reporting",
+    "skills": ["Excel","SQL","Python","Data Visualization"],
+    "sector": "Data Analysis",
+    "location": "Remote",
+    "duration": "2 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Remote Content / Marketing Internship 2025",
+    "skills": ["Writing","SEO","Social Media","Content Strategy"],
+    "sector": "Marketing / Content",
+    "location": "Remote",
+    "duration": "1 month",
+    "internship_type": "Virtual",
+    "stipend": "Unpaid"
+  },
+  {
+    "title": "Full Stack Dev Internship (React + Node) Startup",
+    "skills": ["HTML","CSS","JavaScript","React","Node.js","API"],
+    "sector": "Web Development",
+    "location": "Remote",
+    "duration": "3 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Graphic & UI/UX Design Internship",
+    "skills": ["Figma","Adobe XD","Design","CSS","HTML"],
+    "sector": "Design / UI/UX",
+    "location": "Mumbai",
+    "duration": "1.5 months",
+    "internship_type": "Full-time",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Digital Marketing Internship (SEO + Content)",
+    "skills": ["SEO","Content Writing","Social Media","Analytics"],
+    "sector": "Marketing / Digital Media",
+    "location": "Delhi / Remote",
+    "duration": "2 months",
+    "internship_type": "Virtual",
+    "stipend": "Unpaid"
+  },
+  {
+    "title": "Machine Learning Research Internship",
+    "skills": ["Python","ML","Data Analysis","Statistics"],
+    "sector": "Machine Learning / AI",
+    "location": "Remote",
+    "duration": "3 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Frontend Developer Internship",
+    "skills": ["HTML","CSS","JavaScript","React"],
+    "sector": "Web Development",
+    "location": "Bangalore",
+    "duration": "2 months",
+    "internship_type": "Full-time",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Backend Developer Internship (Django/Python)",
+    "skills": ["Python","Django","SQL","APIs"],
+    "sector": "Web Development / Backend",
+    "location": "Remote",
+    "duration": "3 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Data Analytics & Visualization Internship",
+    "skills": ["Excel","Python","Tableau","Data Visualization"],
+    "sector": "Data Analytics",
+    "location": "Remote",
+    "duration": "2 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Content & Social Media Internship",
+    "skills": ["Writing","SEO","Social Media","Content Creation"],
+    "sector": "Marketing / Content",
+    "location": "Remote",
+    "duration": "1 month",
+    "internship_type": "Virtual",
+    "stipend": "Unpaid"
+  },
+  {
+    "title": "UI/UX + Graphic Design Internship",
+    "skills": ["Figma","Photoshop","CSS","HTML","Design Thinking"],
+    "sector": "Design / UI/UX",
+    "location": "Mumbai / Remote",
+    "duration": "2 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Mobile App Development Internship (Flutter)",
+    "skills": ["Dart","Flutter","APIs","UI"],
+    "sector": "Mobile App Development",
+    "location": "Remote",
+    "duration": "3 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Digital Marketing and Analytics Internship",
+    "skills": ["SEO","Google Analytics","Content Writing","Social Media"],
+    "sector": "Marketing / Analytics",
+    "location": "Remote",
+    "duration": "2 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Quality Assurance / Testing Internship",
+    "skills": ["Manual Testing","Selenium","Test Cases","Reporting"],
+    "sector": "QA / Testing",
+    "location": "Remote",
+    "duration": "1 month",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Research Assistant Internship  Data / ML",
+    "skills": ["Python","Data Analysis","Research","Statistics"],
+    "sector": "Research / Data Science",
+    "location": "Remote",
+    "duration": "2 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Backend and DevOps Internship",
+    "skills": ["Python","Linux","AWS","Docker","APIs"],
+    "sector": "Backend / DevOps / Cloud",
+    "location": "Remote",
+    "duration": "3 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Technical Content Writing Internship",
+    "skills": ["Writing","SEO","Technical Documentation","Research"],
+    "sector": "Content / Technical Writing",
+    "location": "Remote",
+    "duration": "1 month",
+    "internship_type": "Virtual",
+    "stipend": "Unpaid"
+  },
+  {
+    "title": "Graphic Design and Social Media Internship",
+    "skills": ["Photoshop","Illustrator","Social Media","Content Creation"],
+    "sector": "Design / Marketing",
+    "location": "Remote",
+    "duration": "2 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "FullStack Developer Internship (MERN)",
+    "skills": ["MongoDB","Express","React","Node.js","JavaScript","HTML","CSS"],
+    "sector": "Web Development / Full Stack",
+    "location": "Remote",
+    "duration": "3 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "UI/UX & Frontend Internship",
+    "skills": ["HTML","CSS","JavaScript","Figma","UI Design"],
+    "sector": "Design / Web Development",
+    "location": "Remote",
+    "duration": "2 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "EntryLevel Data Entry / Intern  Research Support",
+    "skills": ["Excel","Data Entry","Research"],
+    "sector": "Data Entry / Research",
+    "location": "Remote",
+    "duration": "1 month",
+    "internship_type": "Virtual",
+    "stipend": "Unpaid"
+  },
+  {
+    "title": "Social Media & Content Internship  Startup",
+    "skills": ["Content Writing","Social Media","SEO","Marketing"],
+    "sector": "Marketing / Content",
+    "location": "Remote",
+    "duration": "2 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "AI / ML Intern Entry Level",
+    "skills": ["Python","ML","Data Analysis","Statistics"],
+    "sector": "AI / Machine Learning",
+    "location": "Remote",
+    "duration": "3 months",
+    "internship_type": "Virtual",
+    "stipend": "Paid"
+  },
+  {
+    "title": "Intern Web & App Testing / QA",
+    "skills": ["Testing","Manual Testing","Reporting","Basic HTML"],
+    "sector": "QA / Testing",
+    "location": "Remote",
+    "duration": "1 month",
+    "internship_type": "Virtual",
+    "stipend": "Unpaid"
+  }
+]
